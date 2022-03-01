@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🗄 Source code",
-                                url="https://github.com/AnimeKaizoku/SaitamaRobot",
+                                url="t.me/eruxrobot?start=help",
                             ),
                         ],
                         [
