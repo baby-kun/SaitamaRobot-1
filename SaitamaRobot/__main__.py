@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="🗄 Source code",
-                                url="t.me/eruxrobot?start=help",
+                                url="t.me/miaxsanbot?start=help",
                             ),
                         ],
                         [
